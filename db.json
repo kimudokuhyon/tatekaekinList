@@ -4,37 +4,43 @@
       "zeiKbn": "課税(10%)",
       "hontaiAmn": "111,111",      
       "zeiAmn": "100,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金1"
     },
     {
       "zeiKbn": "課税( 8%)",
       "hontaiAmn": "222,111",      
       "zeiAmn": "200,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金2"
     },
     {
       "zeiKbn": "軽減( 8%)",
       "hontaiAmn": "333,111",      
       "zeiAmn": "300,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金3"
     },
     {
       "zeiKbn": "非課税",
       "hontaiAmn": "444,111",      
       "zeiAmn": "400,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金4"
     },
     {
       "zeiKbn": "課税対象外",
       "hontaiAmn": "555,111",      
       "zeiAmn": "500,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金5"
     },
     {
       "zeiKbn": "免税",
       "hontaiAmn": "666,111",      
       "zeiAmn": "600,000",
-      "version":"バージョン"
+      "version":"バージョン",
+      "comsosk6Cod":"組織コード6立替金6"
     },
     {
       "ttkaCmtSnkKbn":"1"
